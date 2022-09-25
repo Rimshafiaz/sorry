@@ -1,0 +1,27 @@
+body{
+  background-color: #FFE3E1;
+
+}
+
+h1{
+  color: #EE6983;
+  text-align: center;
+  font-size:4rem;
+
+    font-family: 'Dancing Script', cursive;
+}
+
+p{
+  line-height: 2;
+  font-size: 1.45rem;
+  color: #DF7861;
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+margin-right: auto;
+ display: block;
+}
